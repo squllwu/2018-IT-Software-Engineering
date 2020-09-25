@@ -15,7 +15,7 @@
       <td>https://github.com/xuyuanzhi051/softwaregogogo</td>
     </tr>
 	<tr>
-      <td>小组名2</td>
+      <td>小组名2--滑动变组</td>
       <td>张靖（组长），绳增义，安锦阳，叶梓萌，刘志丹，边晨广，崔雪健</td>
       <td>https://github.com/zhangjingws/Software-Engineering</td>
     </tr>
@@ -88,11 +88,6 @@
       <td>小组名16--平平无奇小天才</td>
       <td>袁夏夏(组长),王艳,胡宇,侯雯洁,闫雨欣</td>
       <td>https://github.com/yuanxiaxia/commonIntelligent</td>
-    </tr>
-	<tr>
-      <td>小组名17--滑动变组</td>
-      <td>张靖(组长),安锦阳, 叶梓萌,刘志丹,边晨广,崔雪健</td>
-      <td>https://github.com/zhangjingws/Software-Engineering</td>
     </tr>
   </table>
 </div>
