@@ -72,7 +72,7 @@
 	<tr>
       <td>小组名13--重案组</td>
       <td>柴林彤(组长),梁钰钊,林锦卓,马金鹏,刘净圆</td>
-      <td>https://github.com/chailintongLYN/daliyuan--software/settings</td>
+      <td>https://github.com/chailintongLYN/daliyuan--software</td>
     </tr>
 	<tr>
       <td>小组名14--BugProducer</td>
